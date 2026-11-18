@@ -12,7 +12,7 @@
 > **Institution:** Badr University in Cairo (BUC) — Faculty of Business (School of Business)  
 > **Project Scope:** Undergraduate Applied Artificial Intelligence & Enterprise Automation  
 > **Deployment Model:** Local Standalone Deployment on a Single Machine (Zero Cloud Overhead)
-
+> **Computer Vision & AI Implementation:** Bothaina Elqady (`bothainaelqady93-hash`)
 ---
 
 ## 📌 Executive Summary
